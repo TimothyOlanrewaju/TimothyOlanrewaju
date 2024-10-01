@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there. Welcome to my CodeHub 👋
 
-<!--
-**TimothyOlanrewaju/TimothyOlanrewaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Timothy, a passionate front-end engineer and Technical Writer with a strong focus on crafting dynamic, intuitive user interfaces providing seamless user experience and producing clear, concise technical documentation. I enjoy solving complex problems, building innovative solutions, and sharing knowledge with the developer community through blogs, tutorials, and open-source contributions. I actively write for many blogs notably FreeCodeCamp and garnered more than 200k+ reads.
 
-Here are some ideas to get you started:
+## 📚 My Tech Stack
+- TailwindCSS
+- JavaScript
+- React 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To read my technical articles ➡ [My Writing Portfolio](https://linktr.ee/timothyolanrewaju)
+
+I'm always looking to collaborate on cool coding projects and technical writing projects.
+
+Feel free to explore my repositories and projects, where you'll find a mix of frontend, backend, and technical writing resources!
