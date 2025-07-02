@@ -10,7 +10,7 @@ I'm Timothy, a passionate Software Engineer and Technical Writer with a strong f
 - Python
 - Django
 
-To read my technical articles ➡ [My Writing Portfolio](https://linktr.ee/timothyolanrewaju)
+Read my technical articles ➡ [here](https://linktr.ee/timothyolanrewaju)
 
 I'm always looking to collaborate on cool coding and technical content writing projects.
 
